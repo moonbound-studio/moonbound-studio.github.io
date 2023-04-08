@@ -17,4 +17,4 @@ comments: false
 {% capture images %}
 https://wallpapercave.com/wp/3wPVPxQ.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Rocket Space Theme" cols=2 %}
+{% include gallery images=images caption="Space" cols=2 %}
